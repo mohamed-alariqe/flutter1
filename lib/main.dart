@@ -40,7 +40,7 @@ class HomeScreen extends StatelessWidget {
                   ),
                   SizedBox(height: 10),
                   Text(
-                    'حسام نبيل القباطي',
+                    'محمد علي العريقي   ',
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 18,
